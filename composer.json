@@ -1,0 +1,23 @@
+{
+    "version": "0.0.1",
+    "name": "metrakit/disqus-laravel",
+    "description": "Laravel library for Disqus",
+    "keywords": ["laravel", "laravel4", "disqus", "comments"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Metrakit",
+            "email": "contact@jordane.net",
+            "homepage": "http://jordane.net"
+        }        
+    ],
+    "support": {
+        "issues": "https://github.com/Metrakit/Disqus-Laravel/issues"
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": { "disqus": "src/" }
+    }
+}
