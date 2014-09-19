@@ -18,9 +18,9 @@ http://packalyst.com/packages/package/metrakit/disqus-laravel
     ```
     
 - Use the command : 
-```
+    ```
 composer update
-```
+    ```
 
 - Add this line to the "app.php" file in the config folder where is the "provider" category :
     ```php 
