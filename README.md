@@ -26,7 +26,7 @@ composer update
     ```php 
     // Disqus library
     
-    Metrakit\Disqus\DisqusServiceProvider',
+    'Metrakit\Disqus\DisqusServiceProvider',
     ```
 - Add this line to the "app.php" file in the config folder where is the "aliases" category :    
     ```php 
