@@ -24,13 +24,15 @@ composer update
 
 - Add this line to the "app.php" file in the config folder where is the "provider" category :
     ```php 
-// Disqus library
-Metrakit\Disqus\DisqusServiceProvider',
+    // Disqus library
+    
+    Metrakit\Disqus\DisqusServiceProvider',
     ```
 - Add this line to the "app.php" file in the config folder where is the "aliases" category :    
     ```php 
-// Disqus library
-'Disqus'          => 'Disqus\Disqus',
+    // Disqus library
+    
+    'Disqus'          => 'Disqus\Disqus',
     ```
     
 ##Credits
